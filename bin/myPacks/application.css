@@ -1,0 +1,122 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.parent{
+	
+	-fx-background-color:rgb(128,128,128);
+	
+}
+.pane{
+	
+	-fx-border-color:#10EF5A;
+	-fx-border-radius:0.4cm; 
+	
+	
+}
+.mpesa{
+	
+	-fx-background-color:#32CD32;
+	
+}
+.border{
+	
+	-fx-border-color:#00BFFF;
+	-fx-border-radius:0.5cm; 
+	
+}
+
+.equity{
+	
+	-fx-background-color:#CD853F;
+	-fx-border-radius:0.5cm; 
+	
+	
+}
+.cash{
+	
+	-fx-background-color:#ADD8E6;
+	
+}
+.paymentbtn{
+	
+	
+	-fx-background-color:#00BFFF;
+	-fx-text-fill:#ffff;
+	
+	
+}
+.paymentbtn:hover{
+	
+	-fx-background-color:#808080;
+	-fx-text-fill:#ffff;
+	-fx-border-radius:0.4cm; 
+	
+	
+}
+.texts{
+	
+	-fx-background-image:url('pen.jpg');
+	-fx-background-size:cover;
+}
+
+/*#10EF5A */
+
+.registerBtn{
+	
+	-fx-background-color:#00BFFF;
+	-fx-text-fill:#ffff;
+	
+}
+
+/*#66CDAA */
+.registerBtn:hover{
+	
+		-fx-text-fill:#ffff;
+		-fx-background-color:#10EF5A;
+	
+}
+.pane1{
+	
+	-fx-border-color:#008080;
+	
+}
+.vb{
+	
+		-fx-background-color:#9400D3;
+}
+
+
+.register{
+	
+	-fx-background-color:#00BFFF;
+	-fx-text-fill:#ffff;
+	
+}
+.register:hover{
+	
+		-fx-text-fill:#ffff;
+		-fx-background-color:#000;
+		-fx-border-radius:0.5cm;
+		-fx-border-color:#ffff;
+	
+}
+.fields{
+	
+	-fx-background-color:transparent;	
+	
+}
+
+
+.fill{
+	
+	-fx-background-color:#0000;
+	
+}
+.fill :hover{
+	
+	
+	-fx-background-color:#fff;
+	
+	
+	
+	
+}
